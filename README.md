@@ -11,3 +11,6 @@ The Marital Status column was labelled single or married while the Gender column
 
 ![image](https://user-images.githubusercontent.com/102351522/203183855-4bc0a552-a625-4a38-8549-04f2434a7f86.png)
 
+![image](https://user-images.githubusercontent.com/102351522/203183914-248a223d-8d87-4b4b-9d99-1fb7ad840721.png)
+
+
